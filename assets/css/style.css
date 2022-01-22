@@ -13,10 +13,10 @@ textarea{
     padding: 10px;
 }
 
-.jumbotorn {
+.jumbotorn header{
     text-align: center;
-    background-color: transparent;
-    color: black;
+    background-color: orange;
+    color: gold;
     border-radius: 0;
     border-bottom: 10px solid black;
 }
