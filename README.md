@@ -13,6 +13,7 @@ A simple planner to mange the lifes daily
 
 
 ## Screenshot
+![2022-01-22 (2)](https://user-images.githubusercontent.com/88473030/150631239-915d13ad-f16a-42af-a065-18af97f15f46.png)
 
 
 ## Contribution
