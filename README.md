@@ -16,4 +16,4 @@ A simple planner to mange the lifes daily
 
 
 ## Contribution
-Made by Ben Paulat
+Made by Carrington Adams
